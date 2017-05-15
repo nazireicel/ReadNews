@@ -1,0 +1,21 @@
+.desc {
+ 	background-color: bisque;
+    padding: 10px;
+    margin-bottom: 29px !important;
+
+ }
+
+ #logo {
+ 	margin-left: 385px !important;
+ 	text-shadow: 3px 2px 1px #000 !important;
+ 	font-size: 22px !important;
+ }
+
+ #menu {
+ 	background-color: bisque;
+ }
+
+ .page-title {
+ 	margin-top: -52px !important;
+    margin-left: 52px !important;
+ }
